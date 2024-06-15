@@ -1,0 +1,19 @@
+{
+    "title": "Generating changelogs and porting guide entries in a collection \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Understanding antsibull-changelog\uf0c1",
+            "links": [
+                "#id1",
+                "#understanding-antsibull-changelog"
+            ]
+        },
+        {
+            "title": "Including collection changelogs into Ansible\uf0c1",
+            "links": [
+                "#id4",
+                "#including-collection-changelogs-into-ansible"
+            ]
+        }
+    ]
+}

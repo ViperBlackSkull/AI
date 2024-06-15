@@ -1,0 +1,82 @@
+{
+    "title": "Integration tests \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Quick Start\uf0c1",
+            "links": [
+                "#id2",
+                "#quick-start"
+            ]
+        },
+        {
+            "title": "Configuration\uf0c1",
+            "links": [
+                "#id3",
+                "#configuration"
+            ]
+        },
+        {
+            "title": "Prerequisites\uf0c1",
+            "links": [
+                "#id6",
+                "#prerequisites"
+            ]
+        },
+        {
+            "title": "Non-destructive Tests\uf0c1",
+            "links": [
+                "#id7",
+                "#non-destructive-tests"
+            ]
+        },
+        {
+            "title": "Destructive Tests\uf0c1",
+            "links": [
+                "#id8",
+                "#destructive-tests"
+            ]
+        },
+        {
+            "title": "Windows Tests\uf0c1",
+            "links": [
+                "#id9",
+                "#windows-tests"
+            ]
+        },
+        {
+            "title": "Tests in containers\uf0c1",
+            "links": [
+                "#id10",
+                "#tests-in-containers"
+            ]
+        },
+        {
+            "title": "Other configuration for Cloud Tests\uf0c1",
+            "links": [
+                "#id13",
+                "#other-configuration-for-cloud-tests"
+            ]
+        },
+        {
+            "title": "IAM policies for AWS\uf0c1",
+            "links": [
+                "#id14",
+                "#iam-policies-for-aws"
+            ]
+        },
+        {
+            "title": "Network Tests\uf0c1",
+            "links": [
+                "#id17",
+                "#network-tests"
+            ]
+        },
+        {
+            "title": "Where to find out more\uf0c1",
+            "links": [
+                "#id18",
+                "#where-to-find-out-more"
+            ]
+        }
+    ]
+}

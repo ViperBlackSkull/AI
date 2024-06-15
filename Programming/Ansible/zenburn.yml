@@ -1,0 +1,46 @@
+---
+- name: Change Awesome WM theme to Zenburn
+  hosts: localhost
+  tasks:
+    - name: Ensure Awesome WM configuration directory exists
+      file:
+        path: '{{ ansible_env.HOME }}/.config/awesome'
+        state: directory
+
+    - name: Check if rc.lua exists
+      stat:
+        path: '{{ ansible_env.HOME }}/.config/awesome/rc.lua'
+      register: rc_lua
+
+    - name: Copy default rc.lua if it does not exist
+      copy:
+        src: /etc/xdg/awesome/rc.lua
+        dest: '{{ ansible_env.HOME }}/.config/awesome/rc.lua'
+      when: not rc_lua.stat.exists
+
+    - name: Ensure themes directory exists
+      file:
+        path: '{{ ansible_env.HOME }}/.config/awesome/themes'
+        state: directory
+
+    - name: Check if Zenburn theme exists
+      stat:
+        path: '{{ ansible_env.HOME }}/.config/awesome/themes/zenburn/theme.lua'
+      register: zenburn_theme
+
+    - name: Copy Zenburn theme if it does not exist
+      copy:
+        src: /usr/share/awesome/themes/zenburn
+        dest: '{{ ansible_env.HOME }}/.config/awesome/themes/'
+        remote_src: yes
+      when: not zenburn_theme.stat.exists
+
+    - name: Update rc.lua to use Zenburn theme
+      replace:
+        path: '{{ ansible_env.HOME }}/.config/awesome/rc.lua'
+        regexp: '^beautiful.init.*'
+        replace: 'beautiful.init("{{ ansible_env.HOME }}/.config/awesome/themes/zenburn/theme.lua")'
+
+    - name: Restart Awesome WM
+      command: 'awesome-client "awesome.restart()"'
+      ignore_errors: yes  # Ignore errors if Awesome WM is not running

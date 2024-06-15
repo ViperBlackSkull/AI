@@ -1,0 +1,3 @@
+{
+  "transcript": "[youtube] Extracting URL: https://www.youtube.com/watch?v=T_0jhhWcjE8\n[youtube] T_0jhhWcjE8: Downloading webpage\n[youtube] T_0jhhWcjE8: Downloading ios player API JSON\n[youtube] T_0jhhWcjE8: Downloading m3u8 information\n[info] T_0jhhWcjE8: Downloading subtitles: en\n[info] T_0jhhWcjE8: Downloading 1 format(s): 137+140\n[info] Writing video subtitles to: transcripts/TomBilyeu/T_0jhhWcjE8_Why_Winning_Isn_t_Everything.vtt.en.vtt\n[download] Destination: transcripts/TomBilyeu/T_0jhhWcjE8_Why_Winning_Isn_t_Everything.vtt.en.vtt\n\r[download]    1.00KiB at  Unknown B/s (00:00:00)\r[download]    1.49KiB at  Unknown B/s (00:00:00)\r[download] 100% of    1.49KiB in 00:00:00 at 19.56KiB/s\n"
+}

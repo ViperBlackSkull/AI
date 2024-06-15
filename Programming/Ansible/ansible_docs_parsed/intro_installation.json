@@ -1,0 +1,75 @@
+{
+    "title": "Installing Ansible \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Control node requirements\uf0c1",
+            "links": [
+                "#id7",
+                "#control-node-requirements"
+            ]
+        },
+        {
+            "title": "Managed node requirements\uf0c1",
+            "links": [
+                "#id8",
+                "#managed-node-requirements"
+            ]
+        },
+        {
+            "title": "Node requirement summary\uf0c1",
+            "links": [
+                "#id9",
+                "#node-requirement-summary"
+            ]
+        },
+        {
+            "title": "Selecting an Ansible package and version to install\uf0c1",
+            "links": [
+                "#id10",
+                "#selecting-an-ansible-package-and-version-to-install"
+            ]
+        },
+        {
+            "title": "Installing and upgrading Ansible with pipx\uf0c1",
+            "links": [
+                "#id11",
+                "#installing-and-upgrading-ansible-with-pipx"
+            ]
+        },
+        {
+            "title": "Installing and upgrading Ansible with pip\uf0c1",
+            "links": [
+                "#id15",
+                "#installing-and-upgrading-ansible-with-pip"
+            ]
+        },
+        {
+            "title": "Installing Ansible to containers\uf0c1",
+            "links": [
+                "#id20",
+                "#installing-ansible-to-containers"
+            ]
+        },
+        {
+            "title": "Installing for development\uf0c1",
+            "links": [
+                "#id21",
+                "#installing-for-development"
+            ]
+        },
+        {
+            "title": "Confirming your installation\uf0c1",
+            "links": [
+                "#id24",
+                "#confirming-your-installation"
+            ]
+        },
+        {
+            "title": "Adding Ansible command shell completion\uf0c1",
+            "links": [
+                "#id25",
+                "#adding-ansible-command-shell-completion"
+            ]
+        }
+    ]
+}

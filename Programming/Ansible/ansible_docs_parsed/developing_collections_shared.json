@@ -1,0 +1,26 @@
+{
+    "title": "Using shared resources in collections \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Using documentation fragments in collections\uf0c1",
+            "links": [
+                "#id1",
+                "#using-documentation-fragments-in-collections"
+            ]
+        },
+        {
+            "title": "Leveraging optional module utilities in collections\uf0c1",
+            "links": [
+                "#id2",
+                "#leveraging-optional-module-utilities-in-collections"
+            ]
+        },
+        {
+            "title": "Listing collection dependencies\uf0c1",
+            "links": [
+                "#id3",
+                "#listing-collection-dependencies"
+            ]
+        }
+    ]
+}

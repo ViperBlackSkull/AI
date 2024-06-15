@@ -1,0 +1,23 @@
+{
+    "title": "Contributing your module to an existing Ansible collection \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Contributing modules: objective requirements\uf0c1",
+            "links": [
+                "#contributing-modules-objective-requirements"
+            ]
+        },
+        {
+            "title": "Contributing to Ansible: subjective requirements\uf0c1",
+            "links": [
+                "#contributing-to-ansible-subjective-requirements"
+            ]
+        },
+        {
+            "title": "Other checklists\uf0c1",
+            "links": [
+                "#other-checklists"
+            ]
+        }
+    ]
+}

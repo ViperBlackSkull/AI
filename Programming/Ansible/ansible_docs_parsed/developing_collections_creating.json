@@ -1,0 +1,33 @@
+{
+    "title": "Creating collections \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Naming your collection\uf0c1",
+            "links": [
+                "#id2",
+                "#naming-your-collection"
+            ]
+        },
+        {
+            "title": "Creating a new collection\uf0c1",
+            "links": [
+                "#id3",
+                "#creating-a-new-collection"
+            ]
+        },
+        {
+            "title": "Creating a collection from a custom template\uf0c1",
+            "links": [
+                "#id4",
+                "#creating-a-collection-from-a-custom-template"
+            ]
+        },
+        {
+            "title": "Creating collections with ansible-creator\uf0c1",
+            "links": [
+                "#id5",
+                "#creating-collections-with-ansible-creator"
+            ]
+        }
+    ]
+}

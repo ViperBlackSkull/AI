@@ -1,0 +1,82 @@
+{
+    "title": "Conventions, tips, and pitfalls \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Scoping your module(s)\uf0c1",
+            "links": [
+                "#id1",
+                "#scoping-your-module-s"
+            ]
+        },
+        {
+            "title": "Designing module interfaces\uf0c1",
+            "links": [
+                "#id2",
+                "#designing-module-interfaces"
+            ]
+        },
+        {
+            "title": "General guidelines & tips\uf0c1",
+            "links": [
+                "#id3",
+                "#general-guidelines-tips"
+            ]
+        },
+        {
+            "title": "Functions and Methods\uf0c1",
+            "links": [
+                "#id4",
+                "#functions-and-methods"
+            ]
+        },
+        {
+            "title": "Python tips\uf0c1",
+            "links": [
+                "#id5",
+                "#python-tips"
+            ]
+        },
+        {
+            "title": "Importing and using shared code\uf0c1",
+            "links": [
+                "#id6",
+                "#importing-and-using-shared-code"
+            ]
+        },
+        {
+            "title": "Handling module failures\uf0c1",
+            "links": [
+                "#id7",
+                "#handling-module-failures"
+            ]
+        },
+        {
+            "title": "Handling exceptions (bugs) gracefully\uf0c1",
+            "links": [
+                "#id8",
+                "#handling-exceptions-bugs-gracefully"
+            ]
+        },
+        {
+            "title": "Creating correct and informative module output\uf0c1",
+            "links": [
+                "#id9",
+                "#creating-correct-and-informative-module-output"
+            ]
+        },
+        {
+            "title": "Following Ansible conventions\uf0c1",
+            "links": [
+                "#id10",
+                "#following-ansible-conventions"
+            ]
+        },
+        {
+            "title": "Module Security\uf0c1",
+            "links": [
+                "#id11",
+                "#module-security"
+            ]
+        }
+    ]
+}

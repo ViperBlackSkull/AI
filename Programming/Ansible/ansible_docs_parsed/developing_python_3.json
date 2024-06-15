@@ -1,0 +1,19 @@
+{
+    "title": "Ansible and Python 3 \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Minimum version of Python 3.x and Python 2.x\uf0c1",
+            "links": [
+                "#id1",
+                "#minimum-version-of-python-3-x-and-python-2-x"
+            ]
+        },
+        {
+            "title": "Developing Ansible code that supports Python 2 and Python 3\uf0c1",
+            "links": [
+                "#id2",
+                "#developing-ansible-code-that-supports-python-2-and-python-3"
+            ]
+        }
+    ]
+}

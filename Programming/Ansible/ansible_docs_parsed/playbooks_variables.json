@@ -1,0 +1,96 @@
+{
+    "title": "Using Variables \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Creating valid variable names\uf0c1",
+            "links": [
+                "#id18",
+                "#creating-valid-variable-names"
+            ]
+        },
+        {
+            "title": "Simple variables\uf0c1",
+            "links": [
+                "#id19",
+                "#simple-variables"
+            ]
+        },
+        {
+            "title": "When to quote variables (a YAML gotcha)\uf0c1",
+            "links": [
+                "#id22",
+                "#when-to-quote-variables-a-yaml-gotcha"
+            ]
+        },
+        {
+            "title": "Boolean variables\uf0c1",
+            "links": [
+                "#id23",
+                "#boolean-variables"
+            ]
+        },
+        {
+            "title": "List variables\uf0c1",
+            "links": [
+                "#id24",
+                "#list-variables"
+            ]
+        },
+        {
+            "title": "Dictionary variables\uf0c1",
+            "links": [
+                "#id27",
+                "#dictionary-variables"
+            ]
+        },
+        {
+            "title": "Combining variables\uf0c1",
+            "links": [
+                "#id30",
+                "#combining-variables"
+            ]
+        },
+        {
+            "title": "Registering variables\uf0c1",
+            "links": [
+                "#id34",
+                "#registering-variables"
+            ]
+        },
+        {
+            "title": "Referencing nested variables\uf0c1",
+            "links": [
+                "#id35",
+                "#referencing-nested-variables"
+            ]
+        },
+        {
+            "title": "Transforming variables with Jinja2 filters\uf0c1",
+            "links": [
+                "#id36",
+                "#transforming-variables-with-jinja2-filters"
+            ]
+        },
+        {
+            "title": "Where to set variables\uf0c1",
+            "links": [
+                "#id37",
+                "#where-to-set-variables"
+            ]
+        },
+        {
+            "title": "Variable precedence: Where should I put a variable?\uf0c1",
+            "links": [
+                "#id45",
+                "#variable-precedence-where-should-i-put-a-variable"
+            ]
+        },
+        {
+            "title": "Using advanced variable syntax\uf0c1",
+            "links": [
+                "#id49",
+                "#using-advanced-variable-syntax"
+            ]
+        }
+    ]
+}

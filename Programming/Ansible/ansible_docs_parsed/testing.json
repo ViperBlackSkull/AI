@@ -1,0 +1,40 @@
+{
+    "title": "Testing Ansible \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Why test your Ansible contributions?\uf0c1",
+            "links": [
+                "#id1",
+                "#why-test-your-ansible-contributions"
+            ]
+        },
+        {
+            "title": "Types of tests\uf0c1",
+            "links": [
+                "#id2",
+                "#types-of-tests"
+            ]
+        },
+        {
+            "title": "Testing within GitHub & Azure Pipelines\uf0c1",
+            "links": [
+                "#id3",
+                "#testing-within-github-azure-pipelines"
+            ]
+        },
+        {
+            "title": "How to test a PR\uf0c1",
+            "links": [
+                "#id6",
+                "#how-to-test-a-pr"
+            ]
+        },
+        {
+            "title": "Want to know more about testing?\uf0c1",
+            "links": [
+                "#id13",
+                "#want-to-know-more-about-testing"
+            ]
+        }
+    ]
+}

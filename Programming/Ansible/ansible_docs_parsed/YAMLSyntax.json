@@ -1,0 +1,17 @@
+{
+    "title": "YAML Syntax \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "YAML Basics\uf0c1",
+            "links": [
+                "#yaml-basics"
+            ]
+        },
+        {
+            "title": "Gotchas\uf0c1",
+            "links": [
+                "#gotchas"
+            ]
+        }
+    ]
+}

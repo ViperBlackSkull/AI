@@ -1,0 +1,35 @@
+{
+    "title": "Backporting and Ansible inclusion \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Collection maintainers\uf0c1",
+            "links": [
+                "#collection-maintainers"
+            ]
+        },
+        {
+            "title": "Module maintainers\uf0c1",
+            "links": [
+                "#module-maintainers"
+            ]
+        },
+        {
+            "title": "Releasing a collection\uf0c1",
+            "links": [
+                "#releasing-a-collection"
+            ]
+        },
+        {
+            "title": "Backporting\uf0c1",
+            "links": [
+                "#backporting"
+            ]
+        },
+        {
+            "title": "Including a collection in Ansible\uf0c1",
+            "links": [
+                "#including-a-collection-in-ansible"
+            ]
+        }
+    ]
+}

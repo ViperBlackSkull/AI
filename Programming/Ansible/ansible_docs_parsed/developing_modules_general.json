@@ -1,0 +1,61 @@
+{
+    "title": "Developing modules \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Preparing an environment for developing Ansible modules\uf0c1",
+            "links": [
+                "#id1",
+                "#preparing-an-environment-for-developing-ansible-modules"
+            ]
+        },
+        {
+            "title": "Creating a module\uf0c1",
+            "links": [
+                "#id2",
+                "#creating-a-module"
+            ]
+        },
+        {
+            "title": "Creating an info or a facts module\uf0c1",
+            "links": [
+                "#id3",
+                "#creating-an-info-or-a-facts-module"
+            ]
+        },
+        {
+            "title": "Verifying your module code\uf0c1",
+            "links": [
+                "#id4",
+                "#verifying-your-module-code"
+            ]
+        },
+        {
+            "title": "Testing your newly-created module\uf0c1",
+            "links": [
+                "#id7",
+                "#testing-your-newly-created-module"
+            ]
+        },
+        {
+            "title": "Contributing back to Ansible\uf0c1",
+            "links": [
+                "#id9",
+                "#contributing-back-to-ansible"
+            ]
+        },
+        {
+            "title": "Communication and development support\uf0c1",
+            "links": [
+                "#id10",
+                "#communication-and-development-support"
+            ]
+        },
+        {
+            "title": "Credit\uf0c1",
+            "links": [
+                "#id11",
+                "#credit"
+            ]
+        }
+    ]
+}

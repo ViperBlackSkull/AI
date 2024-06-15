@@ -1,0 +1,23 @@
+{
+    "title": "Documenting collections \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Documenting modules and plugins\uf0c1",
+            "links": [
+                "#documenting-modules-and-plugins"
+            ]
+        },
+        {
+            "title": "Documenting roles\uf0c1",
+            "links": [
+                "#documenting-roles"
+            ]
+        },
+        {
+            "title": "Build a docsite with antsibull-docs\uf0c1",
+            "links": [
+                "#build-a-docsite-with-antsibull-docs"
+            ]
+        }
+    ]
+}

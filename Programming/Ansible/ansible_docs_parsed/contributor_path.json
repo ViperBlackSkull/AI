@@ -1,0 +1,61 @@
+{
+    "title": "Contributor path \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Determine your area of interest\uf0c1",
+            "links": [
+                "#id1",
+                "#determine-your-area-of-interest"
+            ]
+        },
+        {
+            "title": "Find the corresponding project\uf0c1",
+            "links": [
+                "#id2",
+                "#find-the-corresponding-project"
+            ]
+        },
+        {
+            "title": "Learn\uf0c1",
+            "links": [
+                "#id3",
+                "#learn"
+            ]
+        },
+        {
+            "title": "Making your first contribution\uf0c1",
+            "links": [
+                "#id5",
+                "#making-your-first-contribution"
+            ]
+        },
+        {
+            "title": "Continue to contribute\uf0c1",
+            "links": [
+                "#id6",
+                "#continue-to-contribute"
+            ]
+        },
+        {
+            "title": "Teach others\uf0c1",
+            "links": [
+                "#id7",
+                "#teach-others"
+            ]
+        },
+        {
+            "title": "Become a collection maintainer\uf0c1",
+            "links": [
+                "#id8",
+                "#become-a-collection-maintainer"
+            ]
+        },
+        {
+            "title": "Become a steering committee member\uf0c1",
+            "links": [
+                "#id9",
+                "#become-a-steering-committee-member"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "title": "Ansible collection creator path \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Examine currently available solutions\uf0c1",
+            "links": [
+                "#id4",
+                "#examine-currently-available-solutions"
+            ]
+        },
+        {
+            "title": "Create your content\uf0c1",
+            "links": [
+                "#id5",
+                "#create-your-content"
+            ]
+        },
+        {
+            "title": "Put your content in a collection\uf0c1",
+            "links": [
+                "#id6",
+                "#put-your-content-in-a-collection"
+            ]
+        },
+        {
+            "title": "Write good user collection documentation\uf0c1",
+            "links": [
+                "#id7",
+                "#write-good-user-collection-documentation"
+            ]
+        },
+        {
+            "title": "Publish your collection source code\uf0c1",
+            "links": [
+                "#id8",
+                "#publish-your-collection-source-code"
+            ]
+        },
+        {
+            "title": "Follow a versioning convention\uf0c1",
+            "links": [
+                "#id9",
+                "#follow-a-versioning-convention"
+            ]
+        },
+        {
+            "title": "Understand and implement testing and CI\uf0c1",
+            "links": [
+                "#id10",
+                "#understand-and-implement-testing-and-ci"
+            ]
+        },
+        {
+            "title": "Provide good contributor & maintainer documentation\uf0c1",
+            "links": [
+                "#id13",
+                "#provide-good-contributor-maintainer-documentation"
+            ]
+        },
+        {
+            "title": "Publish your collection on distribution servers\uf0c1",
+            "links": [
+                "#id14",
+                "#publish-your-collection-on-distribution-servers"
+            ]
+        },
+        {
+            "title": "Make your collection a part of Ansible community package\uf0c1",
+            "links": [
+                "#id15",
+                "#make-your-collection-a-part-of-ansible-community-package"
+            ]
+        },
+        {
+            "title": "Maintain\uf0c1",
+            "links": [
+                "#id16",
+                "#maintain"
+            ]
+        },
+        {
+            "title": "Communicate\uf0c1",
+            "links": [
+                "#id17",
+                "#communicate"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "title": "Ansible community package collections requirements \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Overview\uf0c1",
+            "links": [
+                "#id8",
+                "#overview"
+            ]
+        },
+        {
+            "title": "Feedback and communications\uf0c1",
+            "links": [
+                "#id9",
+                "#feedback-and-communications"
+            ]
+        },
+        {
+            "title": "Keeping informed\uf0c1",
+            "links": [
+                "#id10",
+                "#keeping-informed"
+            ]
+        },
+        {
+            "title": "Collection infrastructure\uf0c1",
+            "links": [
+                "#id11",
+                "#collection-infrastructure"
+            ]
+        },
+        {
+            "title": "Python Compatibility\uf0c1",
+            "links": [
+                "#id12",
+                "#python-compatibility"
+            ]
+        },
+        {
+            "title": "Standards for developing module and plugin utilities\uf0c1",
+            "links": [
+                "#id18",
+                "#standards-for-developing-module-and-plugin-utilities"
+            ]
+        },
+        {
+            "title": "Repository structure requirements\uf0c1",
+            "links": [
+                "#id19",
+                "#repository-structure-requirements"
+            ]
+        },
+        {
+            "title": "Contributor Workflow\uf0c1",
+            "links": [
+                "#id27",
+                "#contributor-workflow"
+            ]
+        },
+        {
+            "title": "Naming\uf0c1",
+            "links": [
+                "#id30",
+                "#naming"
+            ]
+        },
+        {
+            "title": "Collection licensing requirements\uf0c1",
+            "links": [
+                "#id33",
+                "#collection-licensing-requirements"
+            ]
+        },
+        {
+            "title": "Contributor License Agreements\uf0c1",
+            "links": [
+                "#id34",
+                "#contributor-license-agreements"
+            ]
+        },
+        {
+            "title": "Repository management\uf0c1",
+            "links": [
+                "#id35",
+                "#repository-management"
+            ]
+        },
+        {
+            "title": "CI Testing\uf0c1",
+            "links": [
+                "#id37",
+                "#ci-testing"
+            ]
+        },
+        {
+            "title": "Collections and Working Groups\uf0c1",
+            "links": [
+                "#id38",
+                "#collections-and-working-groups"
+            ]
+        },
+        {
+            "title": "When moving modules between collections\uf0c1",
+            "links": [
+                "#id39",
+                "#when-moving-modules-between-collections"
+            ]
+        },
+        {
+            "title": "Development conventions\uf0c1",
+            "links": [
+                "#id40",
+                "#development-conventions"
+            ]
+        },
+        {
+            "title": "Collection Dependencies\uf0c1",
+            "links": [
+                "#id41",
+                "#collection-dependencies"
+            ]
+        },
+        {
+            "title": "Requirements for collections to be included in the Ansible Package\uf0c1",
+            "links": [
+                "#id43",
+                "#requirements-for-collections-to-be-included-in-the-ansible-package"
+            ]
+        },
+        {
+            "title": "Other requirements\uf0c1",
+            "links": [
+                "#id44",
+                "#other-requirements"
+            ]
+        }
+    ]
+}

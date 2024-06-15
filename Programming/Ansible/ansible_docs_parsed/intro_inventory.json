@@ -1,0 +1,82 @@
+{
+    "title": "How to build your inventory \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Inventory basics: formats, hosts, and groups\uf0c1",
+            "links": [
+                "#id4",
+                "#inventory-basics-formats-hosts-and-groups"
+            ]
+        },
+        {
+            "title": "Passing multiple inventory sources\uf0c1",
+            "links": [
+                "#id9",
+                "#passing-multiple-inventory-sources"
+            ]
+        },
+        {
+            "title": "Organizing inventory in a directory\uf0c1",
+            "links": [
+                "#id10",
+                "#organizing-inventory-in-a-directory"
+            ]
+        },
+        {
+            "title": "Adding variables to inventory\uf0c1",
+            "links": [
+                "#id12",
+                "#adding-variables-to-inventory"
+            ]
+        },
+        {
+            "title": "Assigning a variable to one machine: host variables\uf0c1",
+            "links": [
+                "#id13",
+                "#assigning-a-variable-to-one-machine-host-variables"
+            ]
+        },
+        {
+            "title": "Defining variables in INI format\uf0c1",
+            "links": [
+                "#id15",
+                "#defining-variables-in-ini-format"
+            ]
+        },
+        {
+            "title": "Assigning a variable to many machines: group variables\uf0c1",
+            "links": [
+                "#id16",
+                "#assigning-a-variable-to-many-machines-group-variables"
+            ]
+        },
+        {
+            "title": "Organizing host and group variables\uf0c1",
+            "links": [
+                "#id18",
+                "#organizing-host-and-group-variables"
+            ]
+        },
+        {
+            "title": "How variables are merged\uf0c1",
+            "links": [
+                "#id19",
+                "#how-variables-are-merged"
+            ]
+        },
+        {
+            "title": "Connecting to hosts: behavioral inventory parameters\uf0c1",
+            "links": [
+                "#id21",
+                "#connecting-to-hosts-behavioral-inventory-parameters"
+            ]
+        },
+        {
+            "title": "Inventory setup examples\uf0c1",
+            "links": [
+                "#id23",
+                "#inventory-setup-examples"
+            ]
+        }
+    ]
+}

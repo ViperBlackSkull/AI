@@ -1,0 +1,61 @@
+{
+    "title": "Module format and documentation \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Python shebang & UTF-8 coding\uf0c1",
+            "links": [
+                "#id6",
+                "#python-shebang-utf-8-coding"
+            ]
+        },
+        {
+            "title": "Copyright and license\uf0c1",
+            "links": [
+                "#id7",
+                "#copyright-and-license"
+            ]
+        },
+        {
+            "title": "ANSIBLE_METADATA block\uf0c1",
+            "links": [
+                "#id8",
+                "#ansible-metadata-block"
+            ]
+        },
+        {
+            "title": "DOCUMENTATION block\uf0c1",
+            "links": [
+                "#id9",
+                "#documentation-block"
+            ]
+        },
+        {
+            "title": "EXAMPLES block\uf0c1",
+            "links": [
+                "#id10",
+                "#examples-block"
+            ]
+        },
+        {
+            "title": "RETURN block\uf0c1",
+            "links": [
+                "#id11",
+                "#return-block"
+            ]
+        },
+        {
+            "title": "Python imports\uf0c1",
+            "links": [
+                "#id12",
+                "#python-imports"
+            ]
+        },
+        {
+            "title": "Testing module documentation\uf0c1",
+            "links": [
+                "#id13",
+                "#testing-module-documentation"
+            ]
+        }
+    ]
+}

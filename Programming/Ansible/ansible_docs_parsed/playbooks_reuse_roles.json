@@ -1,0 +1,61 @@
+{
+    "title": "Roles \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Role directory structure\uf0c1",
+            "links": [
+                "#id3",
+                "#role-directory-structure"
+            ]
+        },
+        {
+            "title": "Storing and finding roles\uf0c1",
+            "links": [
+                "#id4",
+                "#storing-and-finding-roles"
+            ]
+        },
+        {
+            "title": "Using roles\uf0c1",
+            "links": [
+                "#id5",
+                "#using-roles"
+            ]
+        },
+        {
+            "title": "Role argument validation\uf0c1",
+            "links": [
+                "#id9",
+                "#role-argument-validation"
+            ]
+        },
+        {
+            "title": "Running a role multiple times in one play\uf0c1",
+            "links": [
+                "#id12",
+                "#running-a-role-multiple-times-in-one-play"
+            ]
+        },
+        {
+            "title": "Using role dependencies\uf0c1",
+            "links": [
+                "#id15",
+                "#using-role-dependencies"
+            ]
+        },
+        {
+            "title": "Embedding modules and plugins in roles\uf0c1",
+            "links": [
+                "#id17",
+                "#embedding-modules-and-plugins-in-roles"
+            ]
+        },
+        {
+            "title": "Sharing roles: Ansible Galaxy\uf0c1",
+            "links": [
+                "#id18",
+                "#sharing-roles-ansible-galaxy"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Adding modules and plugins locally \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Modules and plugins: what is the difference?\uf0c1",
+            "links": [
+                "#id1",
+                "#modules-and-plugins-what-is-the-difference"
+            ]
+        },
+        {
+            "title": "Adding modules and plugins in collections\uf0c1",
+            "links": [
+                "#id2",
+                "#adding-modules-and-plugins-in-collections"
+            ]
+        },
+        {
+            "title": "Adding a module or plugin outside of a collection\uf0c1",
+            "links": [
+                "#id3",
+                "#adding-a-module-or-plugin-outside-of-a-collection"
+            ]
+        },
+        {
+            "title": "Adding a non-module plugin locally outside of a collection\uf0c1",
+            "links": [
+                "#id6",
+                "#adding-a-non-module-plugin-locally-outside-of-a-collection"
+            ]
+        },
+        {
+            "title": "Using ansible.legacy to access custom versions of an ansible.builtin module\uf0c1",
+            "links": [
+                "#id9",
+                "#using-ansible-legacy-to-access-custom-versions-of-an-ansible-builtin-module"
+            ]
+        }
+    ]
+}

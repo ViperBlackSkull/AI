@@ -1,0 +1,33 @@
+{
+    "title": "Distributing collections \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Initial configuration of your distribution server or servers\uf0c1",
+            "links": [
+                "#id3",
+                "#initial-configuration-of-your-distribution-server-or-servers"
+            ]
+        },
+        {
+            "title": "Building your collection tarball\uf0c1",
+            "links": [
+                "#id7",
+                "#building-your-collection-tarball"
+            ]
+        },
+        {
+            "title": "Preparing to publish your collection\uf0c1",
+            "links": [
+                "#id10",
+                "#preparing-to-publish-your-collection"
+            ]
+        },
+        {
+            "title": "Publishing your collection\uf0c1",
+            "links": [
+                "#id14",
+                "#publishing-your-collection"
+            ]
+        }
+    ]
+}

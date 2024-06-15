@@ -1,0 +1,35 @@
+{
+    "title": "The lifecycle of an Ansible module or plugin \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Deprecating modules and plugins in the Ansible main repository\uf0c1",
+            "links": [
+                "#deprecating-modules-and-plugins-in-the-ansible-main-repository"
+            ]
+        },
+        {
+            "title": "Deprecating modules and plugins in a collection\uf0c1",
+            "links": [
+                "#deprecating-modules-and-plugins-in-a-collection"
+            ]
+        },
+        {
+            "title": "Changing a module or plugin name in the Ansible main repository\uf0c1",
+            "links": [
+                "#changing-a-module-or-plugin-name-in-the-ansible-main-repository"
+            ]
+        },
+        {
+            "title": "Renaming a module or plugin in a collection, or redirecting a module or plugin to another collection\uf0c1",
+            "links": [
+                "#renaming-a-module-or-plugin-in-a-collection-or-redirecting-a-module-or-plugin-to-another-collection"
+            ]
+        },
+        {
+            "title": "Tombstoning a module or plugin in a collection\uf0c1",
+            "links": [
+                "#tombstoning-a-module-or-plugin-in-a-collection"
+            ]
+        }
+    ]
+}

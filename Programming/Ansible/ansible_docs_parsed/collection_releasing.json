@@ -1,0 +1,33 @@
+{
+    "title": "Releasing collections \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Preparing to release a collection\uf0c1",
+            "links": [
+                "#id6",
+                "#preparing-to-release-a-collection"
+            ]
+        },
+        {
+            "title": "Collection versioning and deprecation\uf0c1",
+            "links": [
+                "#id7",
+                "#collection-versioning-and-deprecation"
+            ]
+        },
+        {
+            "title": "Collection changelogs\uf0c1",
+            "links": [
+                "#id8",
+                "#collection-changelogs"
+            ]
+        },
+        {
+            "title": "Options for releasing a collection\uf0c1",
+            "links": [
+                "#id9",
+                "#options-for-releasing-a-collection"
+            ]
+        }
+    ]
+}

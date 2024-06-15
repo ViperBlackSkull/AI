@@ -1,0 +1,53 @@
+{
+    "title": "Maintainer responsibilities \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "How to become a maintainer\uf0c1",
+            "links": [
+                "#id4",
+                "#how-to-become-a-maintainer"
+            ]
+        },
+        {
+            "title": "Communicating as a collection maintainer\uf0c1",
+            "links": [
+                "#id5",
+                "#communicating-as-a-collection-maintainer"
+            ]
+        },
+        {
+            "title": "Establishing working group communication\uf0c1",
+            "links": [
+                "#id6",
+                "#establishing-working-group-communication"
+            ]
+        },
+        {
+            "title": "Community Topics\uf0c1",
+            "links": [
+                "#id7",
+                "#community-topics"
+            ]
+        },
+        {
+            "title": "Contributor Summits\uf0c1",
+            "links": [
+                "#id8",
+                "#contributor-summits"
+            ]
+        },
+        {
+            "title": "Weekly community Matrix/IRC meetings\uf0c1",
+            "links": [
+                "#id9",
+                "#weekly-community-matrix-irc-meetings"
+            ]
+        },
+        {
+            "title": "Encouraging new contributors\uf0c1",
+            "links": [
+                "#encouraging-new-contributors"
+            ]
+        }
+    ]
+}

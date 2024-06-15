@@ -1,0 +1,3 @@
+{
+  "transcript": "[youtube] Extracting URL: https://www.youtube.com/watch?v=cuTC_3DRFm4\n[youtube] cuTC_3DRFm4: Downloading webpage\n[youtube] cuTC_3DRFm4: Downloading ios player API JSON\n[youtube] cuTC_3DRFm4: Downloading m3u8 information\n[info] cuTC_3DRFm4: Downloading subtitles: en\n[info] cuTC_3DRFm4: Downloading 1 format(s): 248+251\n[info] Writing video subtitles to: transcripts/TomBilyeu/cuTC_3DRFm4_How_to_Build_Mental_Discipline.vtt.en.vtt\n[download] Destination: transcripts/TomBilyeu/cuTC_3DRFm4_How_to_Build_Mental_Discipline.vtt.en.vtt\n\r[download]    1.00KiB at  Unknown B/s (00:00:00)\r[download]    3.00KiB at  Unknown B/s (00:00:00)\r[download]    6.09KiB at    4.15MiB/s (00:00:00)\r[download] 100% of    6.09KiB in 00:00:00 at 7.42KiB/s\n"
+}

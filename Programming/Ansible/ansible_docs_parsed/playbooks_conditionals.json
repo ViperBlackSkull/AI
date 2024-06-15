@@ -1,0 +1,26 @@
+{
+    "title": "Conditionals \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Basic conditionals with when\uf0c1",
+            "links": [
+                "#id3",
+                "#basic-conditionals-with-when"
+            ]
+        },
+        {
+            "title": "Debugging conditionals\uf0c1",
+            "links": [
+                "#id16",
+                "#debugging-conditionals"
+            ]
+        },
+        {
+            "title": "Commonly-used facts\uf0c1",
+            "links": [
+                "#id17",
+                "#commonly-used-facts"
+            ]
+        }
+    ]
+}

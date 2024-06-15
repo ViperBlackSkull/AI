@@ -1,0 +1,33 @@
+{
+    "title": "Ansible playbooks \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Playbook syntax\uf0c1",
+            "links": [
+                "#id3",
+                "#playbook-syntax"
+            ]
+        },
+        {
+            "title": "Playbook execution\uf0c1",
+            "links": [
+                "#id4",
+                "#playbook-execution"
+            ]
+        },
+        {
+            "title": "Ansible-Pull\uf0c1",
+            "links": [
+                "#id9",
+                "#ansible-pull"
+            ]
+        },
+        {
+            "title": "Verifying playbooks\uf0c1",
+            "links": [
+                "#id10",
+                "#verifying-playbooks"
+            ]
+        }
+    ]
+}

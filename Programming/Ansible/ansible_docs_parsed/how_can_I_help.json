@@ -1,0 +1,75 @@
+{
+    "title": "How can I help? \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Become a power user\uf0c1",
+            "links": [
+                "#id2",
+                "#become-a-power-user"
+            ]
+        },
+        {
+            "title": "Ask and answer questions online\uf0c1",
+            "links": [
+                "#id3",
+                "#ask-and-answer-questions-online"
+            ]
+        },
+        {
+            "title": "Review, fix, and maintain the documentation\uf0c1",
+            "links": [
+                "#id4",
+                "#review-fix-and-maintain-the-documentation"
+            ]
+        },
+        {
+            "title": "Participate in your local meetup\uf0c1",
+            "links": [
+                "#id5",
+                "#participate-in-your-local-meetup"
+            ]
+        },
+        {
+            "title": "File and verify issues\uf0c1",
+            "links": [
+                "#id6",
+                "#file-and-verify-issues"
+            ]
+        },
+        {
+            "title": "Review and submit pull requests\uf0c1",
+            "links": [
+                "#id7",
+                "#review-and-submit-pull-requests"
+            ]
+        },
+        {
+            "title": "Become a collection maintainer\uf0c1",
+            "links": [
+                "#id8",
+                "#become-a-collection-maintainer"
+            ]
+        },
+        {
+            "title": "Join a working group\uf0c1",
+            "links": [
+                "#id9",
+                "#join-a-working-group"
+            ]
+        },
+        {
+            "title": "Teach Ansible to others\uf0c1",
+            "links": [
+                "#id10",
+                "#teach-ansible-to-others"
+            ]
+        },
+        {
+            "title": "Social media\uf0c1",
+            "links": [
+                "#id11",
+                "#social-media"
+            ]
+        }
+    ]
+}

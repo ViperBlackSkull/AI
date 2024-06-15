@@ -1,0 +1,3 @@
+{
+  "transcript": "[youtube] Extracting URL: https://www.youtube.com/watch?v=yg1Rljv_VRE\n[youtube] yg1Rljv_VRE: Downloading webpage\n[youtube] yg1Rljv_VRE: Downloading ios player API JSON\n[youtube] yg1Rljv_VRE: Downloading m3u8 information\n[info] yg1Rljv_VRE: Downloading subtitles: en\n[info] yg1Rljv_VRE: Downloading 1 format(s): 248+251\n[info] Writing video subtitles to: transcripts/TomBilyeu/yg1Rljv_VRE_Are_You_Stuck_in_the_Matrix_.vtt.en.vtt\n[download] Destination: transcripts/TomBilyeu/yg1Rljv_VRE_Are_You_Stuck_in_the_Matrix_.vtt.en.vtt\n\r[download]    1.00KiB at  Unknown B/s (00:00:00)\r[download]    3.00KiB at    2.81MiB/s (00:00:00)\r[download]    6.42KiB at    3.93MiB/s (00:00:00)\r[download] 100% of    6.42KiB in 00:00:00 at 39.36KiB/s\n"
+}

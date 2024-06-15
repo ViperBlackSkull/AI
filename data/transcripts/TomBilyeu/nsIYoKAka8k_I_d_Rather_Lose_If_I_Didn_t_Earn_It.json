@@ -1,0 +1,3 @@
+{
+  "transcript": "[youtube] Extracting URL: https://www.youtube.com/watch?v=nsIYoKAka8k\n[youtube] nsIYoKAka8k: Downloading webpage\n[youtube] nsIYoKAka8k: Downloading ios player API JSON\n[youtube] nsIYoKAka8k: Downloading m3u8 information\n[info] nsIYoKAka8k: Downloading subtitles: en\n[info] nsIYoKAka8k: Downloading 1 format(s): 137+251\n[info] Writing video subtitles to: transcripts/TomBilyeu/nsIYoKAka8k_I_d_Rather_Lose_If_I_Didn_t_Earn_It.vtt.en.vtt\n[download] Destination: transcripts/TomBilyeu/nsIYoKAka8k_I_d_Rather_Lose_If_I_Didn_t_Earn_It.vtt.en.vtt\n\r[download]    1.00KiB at  Unknown B/s (00:00:00)\r[download]    3.00KiB at    2.93MiB/s (00:00:00)\r[download]    5.45KiB at    3.46MiB/s (00:00:00)\r[download] 100% of    5.45KiB in 00:00:00 at 54.39KiB/s\n"
+}

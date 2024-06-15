@@ -1,0 +1,19 @@
+{
+    "title": "ansible.builtin.sh shell \u2013 POSIX shell (/bin/sh) \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Synopsis\uf0c1",
+            "links": [
+                "#id1",
+                "#synopsis"
+            ]
+        },
+        {
+            "title": "Parameters\uf0c1",
+            "links": [
+                "#id2",
+                "#parameters"
+            ]
+        }
+    ]
+}

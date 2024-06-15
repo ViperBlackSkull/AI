@@ -1,0 +1,19 @@
+{
+    "title": "Sanity Tests \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "How to run\uf0c1",
+            "links": [
+                "#id2",
+                "#how-to-run"
+            ]
+        },
+        {
+            "title": "Available Tests\uf0c1",
+            "links": [
+                "#id3",
+                "#available-tests"
+            ]
+        }
+    ]
+}

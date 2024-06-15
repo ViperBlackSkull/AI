@@ -1,0 +1,3 @@
+{
+  "transcript": "[youtube] Extracting URL: https://www.youtube.com/watch?v=-iznklmTjvA\n[youtube] -iznklmTjvA: Downloading webpage\n[youtube] -iznklmTjvA: Downloading ios player API JSON\n[youtube] -iznklmTjvA: Downloading m3u8 information\n[info] -iznklmTjvA: Downloading subtitles: en\n[info] -iznklmTjvA: Downloading 1 format(s): 137+140\n[info] Writing video subtitles to: transcripts/TomBilyeu/-iznklmTjvA_These_Books_Can_Change_Your_Life.vtt.en.vtt\n[download] Destination: transcripts/TomBilyeu/-iznklmTjvA_These_Books_Can_Change_Your_Life.vtt.en.vtt\n\r[download]    1.00KiB at  Unknown B/s (00:00:00)\r[download]    3.00KiB at  Unknown B/s (00:00:00)\r[download]    5.06KiB at    3.69MiB/s (00:00:00)\r[download] 100% of    5.06KiB in 00:00:00 at 9.70KiB/s\n"
+}

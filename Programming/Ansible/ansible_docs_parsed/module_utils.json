@@ -1,0 +1,17 @@
+{
+    "title": "Ansible Reference: Module Utilities \u2014 Ansible Documentation",
+    "sections": [
+        {
+            "title": "AnsibleModule\u00b6",
+            "links": [
+                "#ansiblemodule"
+            ]
+        },
+        {
+            "title": "Basic\u00b6",
+            "links": [
+                "#basic"
+            ]
+        }
+    ]
+}

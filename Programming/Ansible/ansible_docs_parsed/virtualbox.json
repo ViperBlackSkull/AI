@@ -1,0 +1,33 @@
+{
+    "title": "virtualbox \u2013 virtualbox inventory source \u2014 Ansible Documentation",
+    "sections": [
+        {
+            "title": "Synopsis\u00b6",
+            "links": [
+                "#id1",
+                "#synopsis"
+            ]
+        },
+        {
+            "title": "Parameters\u00b6",
+            "links": [
+                "#id2",
+                "#parameters"
+            ]
+        },
+        {
+            "title": "Examples\u00b6",
+            "links": [
+                "#id3",
+                "#examples"
+            ]
+        },
+        {
+            "title": "Status\u00b6",
+            "links": [
+                "#id4",
+                "#status"
+            ]
+        }
+    ]
+}

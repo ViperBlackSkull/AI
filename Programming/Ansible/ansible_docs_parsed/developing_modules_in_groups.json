@@ -1,0 +1,47 @@
+{
+    "title": "Creating a new collection \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Before you start coding\uf0c1",
+            "links": [
+                "#id2",
+                "#before-you-start-coding"
+            ]
+        },
+        {
+            "title": "Naming conventions\uf0c1",
+            "links": [
+                "#id3",
+                "#naming-conventions"
+            ]
+        },
+        {
+            "title": "Speak to us\uf0c1",
+            "links": [
+                "#id4",
+                "#speak-to-us"
+            ]
+        },
+        {
+            "title": "Where to get support\uf0c1",
+            "links": [
+                "#id5",
+                "#where-to-get-support"
+            ]
+        },
+        {
+            "title": "Required files\uf0c1",
+            "links": [
+                "#id6",
+                "#required-files"
+            ]
+        },
+        {
+            "title": "New to git or GitHub\uf0c1",
+            "links": [
+                "#id7",
+                "#new-to-git-or-github"
+            ]
+        }
+    ]
+}

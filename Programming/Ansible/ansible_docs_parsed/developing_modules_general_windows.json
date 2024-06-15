@@ -1,0 +1,82 @@
+{
+    "title": "Windows module development walkthrough \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Windows environment setup\uf0c1",
+            "links": [
+                "#id1",
+                "#windows-environment-setup"
+            ]
+        },
+        {
+            "title": "Create a Windows server in a VM\uf0c1",
+            "links": [
+                "#id2",
+                "#create-a-windows-server-in-a-vm"
+            ]
+        },
+        {
+            "title": "Create an Ansible inventory\uf0c1",
+            "links": [
+                "#id3",
+                "#create-an-ansible-inventory"
+            ]
+        },
+        {
+            "title": "Provisioning the environment\uf0c1",
+            "links": [
+                "#id4",
+                "#provisioning-the-environment"
+            ]
+        },
+        {
+            "title": "Windows new module development\uf0c1",
+            "links": [
+                "#id5",
+                "#windows-new-module-development"
+            ]
+        },
+        {
+            "title": "Windows module utilities\uf0c1",
+            "links": [
+                "#id6",
+                "#windows-module-utilities"
+            ]
+        },
+        {
+            "title": "Windows playbook module testing\uf0c1",
+            "links": [
+                "#id8",
+                "#windows-playbook-module-testing"
+            ]
+        },
+        {
+            "title": "Windows debugging\uf0c1",
+            "links": [
+                "#id9",
+                "#windows-debugging"
+            ]
+        },
+        {
+            "title": "Windows unit testing\uf0c1",
+            "links": [
+                "#id10",
+                "#windows-unit-testing"
+            ]
+        },
+        {
+            "title": "Windows integration testing\uf0c1",
+            "links": [
+                "#id11",
+                "#windows-integration-testing"
+            ]
+        },
+        {
+            "title": "Windows communication and development support\uf0c1",
+            "links": [
+                "#id12",
+                "#windows-communication-and-development-support"
+            ]
+        }
+    ]
+}

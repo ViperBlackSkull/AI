@@ -1,0 +1,26 @@
+{
+    "title": "Galaxy User Guide \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Finding collections on Galaxy\uf0c1",
+            "links": [
+                "#id1",
+                "#finding-collections-on-galaxy"
+            ]
+        },
+        {
+            "title": "Finding roles on Galaxy\uf0c1",
+            "links": [
+                "#id2",
+                "#finding-roles-on-galaxy"
+            ]
+        },
+        {
+            "title": "Installing roles from Galaxy\uf0c1",
+            "links": [
+                "#id4",
+                "#installing-roles-from-galaxy"
+            ]
+        }
+    ]
+}

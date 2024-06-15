@@ -1,0 +1,54 @@
+{
+    "title": "Testing Ansible and Collections \u2014 Ansible Core Documentation",
+    "sections": [
+        {
+            "title": "Setup\uf0c1",
+            "links": [
+                "#id6",
+                "#setup"
+            ]
+        },
+        {
+            "title": "Commands\uf0c1",
+            "links": [
+                "#id9",
+                "#commands"
+            ]
+        },
+        {
+            "title": "Environments\uf0c1",
+            "links": [
+                "#id10",
+                "#environments"
+            ]
+        },
+        {
+            "title": "Additional Requirements\uf0c1",
+            "links": [
+                "#id23",
+                "#additional-requirements"
+            ]
+        },
+        {
+            "title": "Environment variables\uf0c1",
+            "links": [
+                "#id24",
+                "#environment-variables"
+            ]
+        },
+        {
+            "title": "Interactive shell\uf0c1",
+            "links": [
+                "#id25",
+                "#interactive-shell"
+            ]
+        },
+        {
+            "title": "Code coverage\uf0c1",
+            "links": [
+                "#id26",
+                "#code-coverage"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "title": "Working with dynamic inventory \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Inventory script example: Cobbler\uf0c1",
+            "links": [
+                "#id3",
+                "#inventory-script-example-cobbler"
+            ]
+        },
+        {
+            "title": "Other inventory scripts\uf0c1",
+            "links": [
+                "#id4",
+                "#other-inventory-scripts"
+            ]
+        },
+        {
+            "title": "Using inventory directories and multiple inventory sources\uf0c1",
+            "links": [
+                "#id5",
+                "#using-inventory-directories-and-multiple-inventory-sources"
+            ]
+        },
+        {
+            "title": "Static groups of dynamic groups\uf0c1",
+            "links": [
+                "#id6",
+                "#static-groups-of-dynamic-groups"
+            ]
+        }
+    ]
+}

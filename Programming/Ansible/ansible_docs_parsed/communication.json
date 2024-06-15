@@ -1,0 +1,61 @@
+{
+    "title": "Communicating with the Ansible community \u2014 Ansible Community Documentation",
+    "sections": [
+        {
+            "title": "Code of Conduct\uf0c1",
+            "links": [
+                "#id9",
+                "#code-of-conduct"
+            ]
+        },
+        {
+            "title": "Forum\uf0c1",
+            "links": [
+                "#id10",
+                "#forum"
+            ]
+        },
+        {
+            "title": "Real-time chat\uf0c1",
+            "links": [
+                "#id11",
+                "#real-time-chat"
+            ]
+        },
+        {
+            "title": "Working groups\uf0c1",
+            "links": [
+                "#id18",
+                "#working-groups"
+            ]
+        },
+        {
+            "title": "Ansible Community Topics\uf0c1",
+            "links": [
+                "#id22",
+                "#ansible-community-topics"
+            ]
+        },
+        {
+            "title": "Ansible Automation Platform support questions\uf0c1",
+            "links": [
+                "#id23",
+                "#ansible-automation-platform-support-questions"
+            ]
+        },
+        {
+            "title": "The Bullhorn\uf0c1",
+            "links": [
+                "#id24",
+                "#the-bullhorn"
+            ]
+        },
+        {
+            "title": "Asking questions over email\uf0c1",
+            "links": [
+                "#id25",
+                "#asking-questions-over-email"
+            ]
+        }
+    ]
+}
