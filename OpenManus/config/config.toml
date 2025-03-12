@@ -1,0 +1,12 @@
+[llm]
+model = "qwen2.5-coder:14b-instruct-q5_K_S"  # Ensure this matches Ollama's model name
+base_url = "http://127.0.0.1:11434/v1"  # Correct API path for Ollama
+api_key = "ollama"  # Ollama does not require an API key
+max_tokens = 4096
+temperature = 0.0
+
+# Optional configuration for specific LLM models
+[llm.vision]
+model = "llama3.2-vision:latest"
+base_url = "http://127.0.0.1:11434/v1"
+api_key = "ollama"  # Ollama does not require an API key
