@@ -8,7 +8,7 @@ A complete self-hosted AI chat interface with integrated search capabilities and
 
 - **[Open WebUI](https://github.com/open-webui/open-webui)** <img src="https://raw.githubusercontent.com/open-webui/open-webui/main/static/favicon.png" width="20" height="20" alt="Open WebUI" style="vertical-align: middle;">: AI chat interface accessible at http://localhost:3000
 - **[SearXNG](https://github.com/searxng/searxng)** <img src="https://raw.githubusercontent.com/searxng/searxng/master/searx/static/themes/simple/img/searxng.svg" width="20" height="20" alt="SearXNG" style="vertical-align: middle;">: Private search engine for web search functionality
-- **[Firecrawl](https://github.com/mendableai/firecrawl)** <img src="https://avatars.githubusercontent.com/u/150964962?s=200&v=4" width="20" height="20" alt="Firecrawl" style="vertical-align: middle;">: Custom web scraping service for content extraction
+- **[Firecrawl](https://github.com/mendableai/firecrawl)** <img src="https://raw.githubusercontent.com/firecrawl/firecrawl/main/img/firecrawl_logo.png" width="20" height="20" alt="Firecrawl" style="vertical-align: middle;">: Custom web scraping service for content extraction
 
 ## Required User Configuration
 
