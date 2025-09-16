@@ -7,7 +7,7 @@ A complete self-hosted AI chat interface with integrated search capabilities and
 ## What This Stack Includes
 
 - **[Open WebUI](https://github.com/open-webui/open-webui)** <img src="https://raw.githubusercontent.com/open-webui/open-webui/main/static/favicon.png" width="20" height="20" alt="Open WebUI" style="vertical-align: middle;">: AI chat interface accessible at http://localhost:3000
-- **[SearXNG](https://github.com/searxng/searxng)** <img src="https://raw.githubusercontent.com/searxng/searxng/master/src/brand/searxng.svg" width="20" height="20" alt="SearXNG" style="vertical-align: middle;">: Private search engine for web search functionality
+- **[SearXNG](https://github.com/searxng/searxng)** <img src="https://raw.githubusercontent.com/searxng/searxng/master/searx/static/themes/simple/img/searxng.svg" width="20" height="20" alt="SearXNG" style="vertical-align: middle;">: Private search engine for web search functionality
 - **[Firecrawl](https://github.com/mendableai/firecrawl)** <img src="https://avatars.githubusercontent.com/u/150964962?s=200&v=4" width="20" height="20" alt="Firecrawl" style="vertical-align: middle;">: Custom web scraping service for content extraction
 
 ## Required User Configuration
@@ -24,7 +24,7 @@ SEARXNG_SECRET: "your-searxng-secret-key-change-this"   # Change this to a stron
 ### 🤖 Ollama Configuration (REQUIRED)
 ```yaml
 # In docker-compose.yml
-OLLAMA_BASE_URL: "http://192.168.1.233:11434"           # Update to your Ollama server IP/hostname
+OLLAMA_BASE_URL: "http://localhost:11434"              # Update to your Ollama server IP/hostname
 ```
 
 ### 🔧 Optional Configuration
@@ -66,7 +66,7 @@ DEFAULT_USER_ROLE: "user"                               # Change to "admin" if n
 | Variable | Default | Description |
 |----------|---------|-------------|
 | `WEBUI_SECRET_KEY` | `your-secret-key-change-this` | **REQUIRED**: Secret key for Open WebUI session encryption |
-| `OLLAMA_BASE_URL` | `http://192.168.1.233:11434` | **REQUIRED**: URL to your Ollama API server |
+| `OLLAMA_BASE_URL` | `http://localhost:11434` | **REQUIRED**: URL to your Ollama API server |
 | `SEARXNG_SECRET` | `your-searxng-secret-key-change-this` | **REQUIRED**: Secret key for SearXNG |
 | `SEARXNG_BASE_URL` | `http://searxng:8080` | Internal URL for SearXNG service |
 | `FIRECRAWL_BASE_URL` | `http://firecrawl:3002` | Internal URL for Firecrawl service |
